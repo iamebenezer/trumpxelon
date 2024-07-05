@@ -1,0 +1,1066 @@
+.elementor-8 .elementor-element.elementor-element-43e96039 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: space-between;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.5;
+}
+
+.elementor-8 .elementor-element.elementor-element-43e96039:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-43e96039>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0A3161;
+}
+
+.elementor-8 .elementor-element.elementor-element-43e96039::before,
+.elementor-8 .elementor-element.elementor-element-43e96039>.elementor-background-video-container::before,
+.elementor-8 .elementor-element.elementor-element-43e96039>.e-con-inner>.elementor-background-video-container::before,
+.elementor-8 .elementor-element.elementor-element-43e96039>.elementor-background-slideshow::before,
+.elementor-8 .elementor-element.elementor-element-43e96039>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-8 .elementor-element.elementor-element-43e96039>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+}
+
+.elementor-8 .elementor-element.elementor-element-43e96039,
+.elementor-8 .elementor-element.elementor-element-43e96039::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5b8c0942 img {
+    width: 250px;
+}
+
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-menu-toggle {
+    margin: 0 auto;
+}
+
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu .elementor-item {
+    font-family: "Titan One", Sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu--main .elementor-item {
+    color: #FFFFFF;
+    fill: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu--main .elementor-item:hover,
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu--main .elementor-item:focus {
+    color: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {
+    background-color: #B31942;
+}
+
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .e--pointer-framed .elementor-item:before,
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .e--pointer-framed .elementor-item:after {
+    border-color: #B31942;
+}
+
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:before,
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:after {
+    background-color: #B31942;
+}
+
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .e--pointer-framed .elementor-item.elementor-item-active:before,
+.elementor-8 .elementor-element.elementor-element-3220e1c9 .e--pointer-framed .elementor-item.elementor-item-active:after {
+    border-color: #B31942;
+}
+
+.elementor-8 .elementor-element.elementor-element-51f6b9a3 .elementor-button {
+    font-family: "Titan One", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #B31942;
+    border-style: solid;
+    box-shadow: 5px 5px 0px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-7dced27e {
+    --display: flex;
+    --min-height: 100vh;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.5;
+}
+
+.elementor-8 .elementor-element.elementor-element-7dced27e:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-7dced27e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background: url("https://trumpmania.wtf/wp-content/uploads/2024/05/american.webp") 50% 50%;
+    background-size: cover;
+}
+
+.elementor-8 .elementor-element.elementor-element-7dced27e::before,
+.elementor-8 .elementor-element.elementor-element-7dced27e>.elementor-background-video-container::before,
+.elementor-8 .elementor-element.elementor-element-7dced27e>.e-con-inner>.elementor-background-video-container::before,
+.elementor-8 .elementor-element.elementor-element-7dced27e>.elementor-background-slideshow::before,
+.elementor-8 .elementor-element.elementor-element-7dced27e>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-8 .elementor-element.elementor-element-7dced27e>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-7dced27e,
+.elementor-8 .elementor-element.elementor-element-7dced27e::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5f02c65e img {
+    width: 50%;
+}
+
+.elementor-8 .elementor-element.elementor-element-5f02c65e>.elementor-widget-container:hover {
+    --e-transform-scale: 1.2;
+}
+
+.elementor-8 .elementor-element.elementor-element-5f02c65e {
+    --e-transform-transition-duration: 1000ms;
+}
+
+.elementor-8 .elementor-element.elementor-element-6125b03d {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-6125b03d.elementor-element {
+    --align-self: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-6125b03d>.elementor-widget-container {
+    background-color: #0A3161;
+}
+
+.elementor-8 .elementor-element.elementor-element-3b13dd5 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-2ef2f35 .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-8 .elementor-element.elementor-element-2ef2f35 .elementor-button {
+    font-family: "Titan One", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #B31942;
+    border-style: solid;
+    box-shadow: 5px 5px 0px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-47348af .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-8 .elementor-element.elementor-element-47348af .elementor-button {
+    font-family: "Titan One", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #B31942;
+    border-style: solid;
+    box-shadow: 5px 5px 0px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-2aabf9a6 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --flex-wrap-mobile: wrap;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --padding-top: 50px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-2aabf9a6:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-2aabf9a6>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #B31942;
+}
+
+.elementor-8 .elementor-element.elementor-element-2aabf9a6,
+.elementor-8 .elementor-element.elementor-element-2aabf9a6::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-c9ae500 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-dca14ec .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 54px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-5febaad8 {
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-8 .elementor-element.elementor-element-61fbf9c {
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-8 .elementor-element.elementor-element-79f629c4 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-3057f067>.elementor-widget-container:hover {
+    --e-transform-scale: 1.2;
+}
+
+.elementor-8 .elementor-element.elementor-element-3822a7c9 .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-8 .elementor-element.elementor-element-3822a7c9 .elementor-button {
+    font-family: "Titan One", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #0A3161;
+    border-style: solid;
+    box-shadow: 5px 5px 0px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-e77b89a .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-8 .elementor-element.elementor-element-e77b89a .elementor-button {
+    font-family: "Titan One", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #0A3161;
+    border-style: solid;
+    box-shadow: 5px 5px 0px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-3d4ab38f {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 50px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-3d4ab38f:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-3d4ab38f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-3d4ab38f,
+.elementor-8 .elementor-element.elementor-element-3d4ab38f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-2614dea1 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-f93c4e1 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-f93c4e1 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #B31942;
+    stroke: #B31942;
+    text-shadow: 5px 5px 0px #B31942;
+}
+
+.elementor-8 .elementor-element.elementor-element-3b68317 {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(3, 1fr);
+    --e-con-grid-template-rows: repeat(1, 1fr);
+    --grid-auto-flow: row;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-713d38f7 .elementor-counter-number-wrapper {
+    color: #B31942;
+    font-family: "Titan One", Sans-serif;
+    font-weight: 400;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #FFFFFF;
+    stroke: #FFFFFF;
+    text-shadow: 3px 3px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-713d38f7 .elementor-counter-title {
+    color: #FFFFFF;
+    font-family: "Bowlby One SC", Sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-461d83da .elementor-counter-title {
+    justify-content: center;
+    color: #FFFFFF;
+    font-family: "Bowlby One SC", Sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-461d83da .elementor-counter-number-wrapper {
+    text-align: {
+            {
+            VALUE
+        }
+    }
+    ;
+    --counter-prefix-grow:1;
+    --counter-suffix-grow:1;
+    --counter-number-grow:0;
+    color:#B31942;
+    font-family:"Titan One",
+    Sans-serif;
+    font-size:50px;
+    font-weight:400;
+    -webkit-text-stroke-width:1px;
+    stroke-width:1px;
+    -webkit-text-stroke-color:#FFFFFF;
+    stroke:#FFFFFF;
+    text-shadow:3px 3px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-622baa1 .elementor-counter-number-wrapper {
+    color: #B31942;
+    font-family: "Titan One", Sans-serif;
+    font-weight: 400;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #FFFFFF;
+    stroke: #FFFFFF;
+    text-shadow: 3px 3px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-622baa1 .elementor-counter-title {
+    color: #FFFFFF;
+    font-family: "Bowlby One SC", Sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-a0bac3c {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --padding-top: 50px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-a0bac3c:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-a0bac3c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0A3161;
+}
+
+.elementor-8 .elementor-element.elementor-element-a0bac3c,
+.elementor-8 .elementor-element.elementor-element-a0bac3c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-d1b917b {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-c8539a0 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-c8539a0 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #B31942;
+    stroke: #B31942;
+    text-shadow: 5px 5px 0px #B31942;
+}
+
+.elementor-8 .elementor-element.elementor-element-4684eeb {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-8 .elementor-element.elementor-element-2666c7a .elementor-button-content-wrapper {
+    flex-direction: row;
+}
+
+.elementor-8 .elementor-element.elementor-element-2666c7a .elementor-button {
+    font-family: "Titan One", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #B31942;
+    border-style: solid;
+    box-shadow: 5px 5px 0px 0px #FFFFFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-6cf9610.elementor-position-right .elementor-image-box-img {
+    margin-left: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-6cf9610.elementor-position-left .elementor-image-box-img {
+    margin-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-6cf9610.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-6cf9610 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 150px;
+}
+
+.elementor-8 .elementor-element.elementor-element-6cf9610 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-6cf9610 .elementor-image-box-title {
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-6cf9610 .elementor-image-box-description {
+    font-family: "Roboto", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.elementor-8 .elementor-element.elementor-element-f01cfd1 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.3;
+    --padding-top: 50px;
+    --padding-bottom: 20px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-f01cfd1:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-f01cfd1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/210914123622-01-trump-fist-file-scaled.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-8 .elementor-element.elementor-element-f01cfd1::before,
+.elementor-8 .elementor-element.elementor-element-f01cfd1>.elementor-background-video-container::before,
+.elementor-8 .elementor-element.elementor-element-f01cfd1>.e-con-inner>.elementor-background-video-container::before,
+.elementor-8 .elementor-element.elementor-element-f01cfd1>.elementor-background-slideshow::before,
+.elementor-8 .elementor-element.elementor-element-f01cfd1>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-8 .elementor-element.elementor-element-f01cfd1>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-f01cfd1,
+.elementor-8 .elementor-element.elementor-element-f01cfd1::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-e64a4fd {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-e64a4fd .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #B31942;
+    stroke: #B31942;
+    text-shadow: 5px 5px 0px #B31942;
+}
+
+.elementor-8 .elementor-element.elementor-element-2f6e2fa {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-932870a {
+    --display: grid;
+    --e-con-grid-template-columns: repeat(5, 1fr);
+    --e-con-grid-template-rows: repeat(2, 1fr);
+    --grid-auto-flow: row;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-dfb1f49 {
+    --display: flex;
+    --min-height: 300px;
+    --background-transition: 0.5s;
+}
+
+.elementor-8 .elementor-element.elementor-element-dfb1f49:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-dfb1f49>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/1-2-removebg-preview.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-dfb1f49:hover {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/2-removebg-preview.png");
+}
+
+.elementor-8 .elementor-element.elementor-element-dfb1f49,
+.elementor-8 .elementor-element.elementor-element-dfb1f49::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-7c32fdb {
+    --display: flex;
+    --min-height: 300px;
+    --background-transition: 0.5s;
+}
+
+.elementor-8 .elementor-element.elementor-element-7c32fdb:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-7c32fdb>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/1-2-removebg-preview.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-7c32fdb:hover {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/3-removebg-preview.png");
+}
+
+.elementor-8 .elementor-element.elementor-element-7c32fdb,
+.elementor-8 .elementor-element.elementor-element-7c32fdb::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-cab81ed {
+    --display: flex;
+    --min-height: 300px;
+    --background-transition: 0.5s;
+}
+
+.elementor-8 .elementor-element.elementor-element-cab81ed:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-cab81ed>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/1-2-removebg-preview.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-cab81ed:hover {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/4-removebg-preview.png");
+}
+
+.elementor-8 .elementor-element.elementor-element-cab81ed,
+.elementor-8 .elementor-element.elementor-element-cab81ed::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-4d81b4c {
+    --display: flex;
+    --min-height: 300px;
+    --background-transition: 0.5s;
+}
+
+.elementor-8 .elementor-element.elementor-element-4d81b4c:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-4d81b4c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/1-2-removebg-preview.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-4d81b4c:hover {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/7-removebg-preview.png");
+}
+
+.elementor-8 .elementor-element.elementor-element-4d81b4c,
+.elementor-8 .elementor-element.elementor-element-4d81b4c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-a916042 {
+    --display: flex;
+    --min-height: 300px;
+    --background-transition: 0.5s;
+}
+
+.elementor-8 .elementor-element.elementor-element-a916042:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-a916042>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/1-2-removebg-preview.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-a916042:hover {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/5-removebg-preview.png");
+}
+
+.elementor-8 .elementor-element.elementor-element-a916042,
+.elementor-8 .elementor-element.elementor-element-a916042::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-6d3e3fb {
+    --display: flex;
+    --min-height: 300px;
+    --background-transition: 0.5s;
+}
+
+.elementor-8 .elementor-element.elementor-element-6d3e3fb:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-6d3e3fb>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/1-2-removebg-preview.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-6d3e3fb:hover {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/7-removebg-preview.png");
+}
+
+.elementor-8 .elementor-element.elementor-element-6d3e3fb,
+.elementor-8 .elementor-element.elementor-element-6d3e3fb::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-4b6cd07 {
+    --display: flex;
+    --min-height: 300px;
+    --background-transition: 0.5s;
+}
+
+.elementor-8 .elementor-element.elementor-element-4b6cd07:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-4b6cd07>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/1-2-removebg-preview.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-4b6cd07:hover {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/9-removebg-preview.png");
+}
+
+.elementor-8 .elementor-element.elementor-element-4b6cd07,
+.elementor-8 .elementor-element.elementor-element-4b6cd07::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5edd2ab {
+    --display: flex;
+    --min-height: 300px;
+    --background-transition: 0.5s;
+}
+
+.elementor-8 .elementor-element.elementor-element-5edd2ab:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-5edd2ab>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/1-2-removebg-preview.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-5edd2ab:hover {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/6-removebg-preview.png");
+}
+
+.elementor-8 .elementor-element.elementor-element-5edd2ab,
+.elementor-8 .elementor-element.elementor-element-5edd2ab::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-14d5b8f {
+    --display: flex;
+    --min-height: 300px;
+    --background-transition: 0.5s;
+}
+
+.elementor-8 .elementor-element.elementor-element-14d5b8f:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-14d5b8f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/1-2-removebg-preview.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-14d5b8f:hover {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/8-removebg-preview.png");
+}
+
+.elementor-8 .elementor-element.elementor-element-14d5b8f,
+.elementor-8 .elementor-element.elementor-element-14d5b8f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-fb5c607 {
+    --display: flex;
+    --min-height: 300px;
+    --background-transition: 0.5s;
+}
+
+.elementor-8 .elementor-element.elementor-element-fb5c607:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-fb5c607>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/1-2-removebg-preview.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-8 .elementor-element.elementor-element-fb5c607:hover {
+    background-image: url("https://trumpmania.wtf/wp-content/uploads/2024/05/2-removebg-preview.png");
+}
+
+.elementor-8 .elementor-element.elementor-element-fb5c607,
+.elementor-8 .elementor-element.elementor-element-fb5c607::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-488b1f56 {
+    --display: flex;
+    --min-height: 200px;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --padding-top: 50px;
+    --padding-bottom: 50px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-8 .elementor-element.elementor-element-488b1f56:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-488b1f56>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #00CCFF;
+}
+
+.elementor-8 .elementor-element.elementor-element-488b1f56,
+.elementor-8 .elementor-element.elementor-element-488b1f56::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-104fa462 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-d7ea9d5 {
+    text-align: center;
+}
+
+.elementor-8 .elementor-element.elementor-element-d7ea9d5 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #B31942;
+    stroke: #B31942;
+    text-shadow: 5px 5px 0px #B31942;
+}
+
+.elementor-8 .elementor-element.elementor-element-37bbc06d {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --justify-content: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-37bbc06d:not(.elementor-motion-effects-element-type-background),
+.elementor-8 .elementor-element.elementor-element-37bbc06d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-8 .elementor-element.elementor-element-37bbc06d,
+.elementor-8 .elementor-element.elementor-element-37bbc06d::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-346daeba {
+    --display: flex;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+}
+
+.elementor-8 .elementor-element.elementor-element-269ce5c0 {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-8 .elementor-element.elementor-element-73165a16 {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Titan One", Sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+@media(min-width:768px) {
+    .elementor-8 .elementor-element.elementor-element-c9ae500 {
+        --width: 50%;
+    }
+    .elementor-8 .elementor-element.elementor-element-79f629c4 {
+        --width: 50%;
+    }
+}
+
+@media(min-width:1025px) {
+    .elementor-8 .elementor-element.elementor-element-f01cfd1:not(.elementor-motion-effects-element-type-background),
+    .elementor-8 .elementor-element.elementor-element-f01cfd1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-attachment: fixed;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-8 .elementor-element.elementor-element-3b68317 {
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-932870a {
+        --grid-auto-flow: row;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-8 .elementor-element.elementor-element-43e96039 {
+        --align-items: center;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    }
+    .elementor-8 .elementor-element.elementor-element-5b8c0942 img {
+        width: 150px;
+    }
+    .elementor-8 .elementor-element.elementor-element-3220e1c9 {
+        width: auto;
+        max-width: auto;
+    }
+    .elementor-8 .elementor-element.elementor-element-51f6b9a3 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-8 .elementor-element.elementor-element-7dced27e {
+        --overlay-opacity: 0.3;
+    }
+    .elementor-8 .elementor-element.elementor-element-5f02c65e img {
+        width: 100%;
+    }
+    .elementor-8 .elementor-element.elementor-element-6125b03d {
+        font-size: 12px;
+    }
+    .elementor-8 .elementor-element.elementor-element-2ef2f35 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-8 .elementor-element.elementor-element-47348af {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-8 .elementor-element.elementor-element-dca14ec {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-dca14ec .elementor-heading-title {
+        font-size: 52px;
+    }
+    .elementor-8 .elementor-element.elementor-element-5febaad8 {
+        text-align: justify;
+    }
+    .elementor-8 .elementor-element.elementor-element-61fbf9c {
+        text-align: justify;
+    }
+    .elementor-8 .elementor-element.elementor-element-3822a7c9 {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-8 .elementor-element.elementor-element-e77b89a {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-8 .elementor-element.elementor-element-f93c4e1 .elementor-heading-title {
+        font-size: 52px;
+    }
+    .elementor-8 .elementor-element.elementor-element-3b68317 {
+        --e-con-grid-template-columns: repeat(1, 1fr);
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-461d83da .elementor-counter-number-wrapper {
+        font-size: 40px;
+    }
+    .elementor-8 .elementor-element.elementor-element-c8539a0 .elementor-heading-title {
+        font-size: 52px;
+    }
+    .elementor-8 .elementor-element.elementor-element-4684eeb {
+        text-align: center;
+    }
+    .elementor-8 .elementor-element.elementor-element-2666c7a {
+        width: 100%;
+        max-width: 100%;
+    }
+    .elementor-8 .elementor-element.elementor-element-6cf9610 .elementor-image-box-img {
+        margin-bottom: 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-e64a4fd .elementor-heading-title {
+        font-size: 52px;
+    }
+    .elementor-8 .elementor-element.elementor-element-2f6e2fa {
+        --gap: 0px 0px;
+    }
+    .elementor-8 .elementor-element.elementor-element-932870a {
+        --e-con-grid-template-columns: repeat(5, 1fr);
+        --gap: 0px 0px;
+        --grid-auto-flow: row;
+    }
+    .elementor-8 .elementor-element.elementor-element-dfb1f49 {
+        --min-height: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-7c32fdb {
+        --min-height: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-cab81ed {
+        --min-height: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-4d81b4c {
+        --min-height: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-a916042 {
+        --min-height: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-6d3e3fb {
+        --min-height: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-4b6cd07 {
+        --min-height: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-5edd2ab {
+        --min-height: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-14d5b8f {
+        --min-height: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-fb5c607 {
+        --min-height: 100px;
+    }
+    .elementor-8 .elementor-element.elementor-element-d7ea9d5 .elementor-heading-title {
+        font-size: 52px;
+    }
+    .elementor-8 .elementor-element.elementor-element-269ce5c0 {
+        font-size: 7px;
+    }
+    .elementor-8 .elementor-element.elementor-element-73165a16 {
+        font-size: 16px;
+    }
+}
